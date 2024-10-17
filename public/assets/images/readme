@@ -1,0 +1,12 @@
+Things used and Learnt
+1. App.write for backen and database
+2. Tailwind.css for styling
+3. Shadcn ui for components like Button and Form(uses zod + React Hook Form)
+4. zod for Form Validations
+5. Vite for Project setup
+
+
+Shotcuts
+rafce - to create functional components
+alt + top/down arrow - move lines
+comment - select + ctrl + / 
