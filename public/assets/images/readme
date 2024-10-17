@@ -1,4 +1,4 @@
-Things used and Learnt
+Things used 
 1. App.write for backen and database
 2. Tailwind.css for styling
 3. Shadcn ui for components like Button and Form(uses zod + React Hook Form)
